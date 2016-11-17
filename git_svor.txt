@@ -1,1 +1,9 @@
 git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+
+1. cd                         =  Er notað til að breytta um skrá sem þú ert í.
+2. cd ~                       =  Er shortcut til að færa þig á fyrri skrá.
+3. ls                         =  Býr til lista yfir skrám sem eru í skránni. 
+4. pwd                        =  Er notað til að sjá í hvaða skrá þú ert í.
+5. mkdir                      =  Er notað til að búa tilk nýja skrá.
