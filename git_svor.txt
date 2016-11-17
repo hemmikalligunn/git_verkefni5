@@ -7,3 +7,13 @@ git spurningar og svör
 3. ls                         =  Býr til lista yfir skrám sem eru í skránni. 
 4. pwd                        =  Er notað til að sjá í hvaða skrá þú ert í.
 5. mkdir                      =  Er notað til að búa tilk nýja skrá.
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+
+1. git clone                  = Býr til eins geymslu í nýja skrá sem .þú ert í. 
+2. git log                    = Sýnir öll commit sem þú hefur gert. 
+3. got status                 = Sýnir status á working tree.
+4. git diff                   = Sýnir breytingar milli commit og commit og working tree.
+5. git checkout               = Endurheimtar tree skrár. 
+
