@@ -23,3 +23,9 @@ git spurningar og svör
 a. git diff                   = Sýnir breytingar milli commit og commit og working tree.
 b. git diff --staged          = Sýnir allar breytingar þú hefur gert.
 c. git diff commit1 commit2   = Sýnir fyrstu tvær commits þú gerðir.
+
+
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
+
+Kerfi sem skráir niður breyttingar sem þú hefur gert í skrám og leyfir þér að fara yfir 
+breytingarnar 
