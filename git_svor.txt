@@ -17,3 +17,9 @@ git spurningar og svör
 4. git diff                   = Sýnir breytingar milli commit og commit og working tree.
 5. git checkout               = Endurheimtar tree skrár. 
 
+
+3. Hver er munurinn á eftirfarandi git skipunum
+
+a. git diff                   = Sýnir breytingar milli commit og commit og working tree.
+b. git diff --staged          = Sýnir allar breytingar þú hefur gert.
+c. git diff commit1 commit2   = Sýnir fyrstu tvær commits þú gerðir.
