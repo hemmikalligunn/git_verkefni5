@@ -50,3 +50,9 @@ komst með þessa hugmynd.
 Woking directory              = Skráinn sem þú er í.
 Staging area                  = Breyttar skrár sem eru tilbúnar fyrir næsta commit.
 Repository 
+
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+þegar þú veist ekki hvernig verkefnið þitt á að vera þá geturu gert tvær útgáfur að því,
+þesar útgáfur geta líka skipst og þú getur haldið áfram með hvaða útgáfu sem er.
