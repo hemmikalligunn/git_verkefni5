@@ -29,3 +29,9 @@ c. git diff commit1 commit2   = Sýnir fyrstu tvær commits þú gerðir.
 
 Kerfi sem skráir niður breyttingar sem þú hefur gert í skrám og leyfir þér að fara yfir 
 breytingarnar 
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+Þú getur alltaf farið á eldri punkt í verkefninu ,gert fleiri útgáfur af verkefninu
+og gerir léttara að hoppa um útgáfur/verkefni.
