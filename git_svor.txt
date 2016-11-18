@@ -35,3 +35,12 @@ breytingarnar
 
 Þú getur alltaf farið á eldri punkt í verkefninu ,gert fleiri útgáfur af verkefninu
 og gerir léttara að hoppa um útgáfur/verkefni.
+
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Þegar þú ert búinn að gera ákveðið mikið(fer eftir þér) og þegar þú hefur nýjar hugmyndir
+sem þú ert ekki alveg viss um, þá getur farið alveg fullt í þessa hugmynd án þess að pæla
+í miklu um hversu mikið þú þarft að breytta til að hafa allt eins og það var áður en þú 
+komst með þessa hugmynd.
+
