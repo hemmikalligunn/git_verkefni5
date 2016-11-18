@@ -44,3 +44,9 @@ sem þú ert ekki alveg viss um, þá getur farið alveg fullt í þessa hugmynd án þes
 í miklu um hversu mikið þú þarft að breytta til að hafa allt eins og það var áður en þú 
 komst með þessa hugmynd.
 
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+Woking directory              = Skráinn sem þú er í.
+Staging area                  = Breyttar skrár sem eru tilbúnar fyrir næsta commit.
+Repository 
